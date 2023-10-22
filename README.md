@@ -1,2 +1,2 @@
-# Cat-dog-classification
+#Animal Images-classification
 cats and dogs classification using cnn
